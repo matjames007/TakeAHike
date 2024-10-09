@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Take A Hike</string>
+    <string name="location">Location</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="_20km">20km</string>
+    <string name="hike_name">Hike Name</string>
+    <string name="category">Category</string>
+    <string name="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</string>
+    <string name="add_word">Add Hike</string>
+    <string name="descriptionLabel">Description</string>
+    <string name="distance">Distance</string>
+</resources>
